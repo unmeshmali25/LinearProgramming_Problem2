@@ -1,0 +1,5 @@
+peanutbutter : 2.0 grams
+steak : 1.0 grams
+Total cost of diet : $ 14.0
+
+
